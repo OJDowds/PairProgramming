@@ -1,0 +1,15 @@
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.csproj.AssemblyReference.cache
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.AssemblyInfoInputs.cache
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.AssemblyInfo.cs
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Installer\source\repos\PairProgramming\bin\Debug\net7.0\PairProgramming.exe
+C:\Users\Installer\source\repos\PairProgramming\bin\Debug\net7.0\PairProgramming.deps.json
+C:\Users\Installer\source\repos\PairProgramming\bin\Debug\net7.0\PairProgramming.runtimeconfig.json
+C:\Users\Installer\source\repos\PairProgramming\bin\Debug\net7.0\PairProgramming.dll
+C:\Users\Installer\source\repos\PairProgramming\bin\Debug\net7.0\PairProgramming.pdb
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.dll
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\refint\PairProgramming.dll
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.pdb
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\PairProgramming.genruntimeconfig.cache
+C:\Users\Installer\source\repos\PairProgramming\obj\Debug\net7.0\ref\PairProgramming.dll
